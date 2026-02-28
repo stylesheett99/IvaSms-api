@@ -1,17 +1,17 @@
 [
   {
-    "name": "XSRF-TOKEN",
+    "name": "cf_clearance",
+    "value": "vQvT0mVkqOpgn1lry00V9ibyYhiJvKpNEN7bBMakIWo-1772314977-1.2.1.1-j.QioQTP0wsl1_jCI046zhGOB5T_hEsLTm3Z1Y4iTm39aalEFBSi1_QR0POEX87uOYHUbqmNT8ufB_s.d.AQZ6eHECGWK9RvWsWVXnOhJ.DTXLUXHfUGzvv8ZEIHU4aDnJfnc2Gb4GQHYsX3q2JhFktb3g7TPExQsmRcrav4h27KLINRvArQ9p8x9_fN0oIY_snQgSbgcVEMbXb0DJ4NA.CSTz2BdZYUixXZSOMWmmY",
+    "domain": ".ivasms.com"
+  },
+  {
+    "name": "ivas_sms_session",
     "value": "eyJpdiI6IjA2Sk5vTFMwWGErZmxHb3NmdHI3cEE9PSIsInZhbHVlIjoidmE4b0VzNmpaUXBiNzhYNktCRDJBcU1rRk9zQ1MxK2ExdkFwdXcyLy9EWnhUNnNTS1F4V09UL2R1Nm9HN3MyTmxoSjZBSHNwd3Z5dGVXeEgrN3BUSjgvekxlRDlmZmRsdnBObGwwL3F4WGEzR29oLzMyblBCL2dNdzRzUE5kMFYiLCJtYWMiOiI4MDlhNDMxYjhjZmMxYWQwYTU4YjdjMTQzMjQ2YjkwMWQyZWRkYzBlYTNiZjQ4YTY0MzY1MjJlM2E5MzdlNTZjIiwidGFnIjoiIn0%3D",
     "domain": "www.ivasms.com"
   },
   {
-    "name": "ivas_sms_session",
-    "value": "eyJpdiI6IjZ3Y3hwZm9qTVlibERYcXo0VUM0Mnc9PSIsInZhbHVlIjoiRVhWcnBhVWJjeUZGWWhWWFVUTmwraVoyNnNVQU5zbERTWXQ3Z28yWEpHM3JlSEVWQ1NmV1hZSFhqUDJNYXlWV25PdStweStjOTFJZU1KbjBoVTN2d2tWSnk2Y0p3R3FXTC85d0d1QkxGVWEwLzNTVHJtYnRXR0FMMnY3WFhKM2ciLCJtYWMiOiIwYmUzYTFhMmExNTAyYjViMWMyN2JmMTk5NGQ0NzE2YWUyMzYwMDMxY2QxOGRlMTc3Y2U4MzE2MzhmNTE3YzQ3IiwidGFnIjoiIn0%3D",
-    "domain": "www.ivasms.com"
-  },
-  {
-    "name": "_ga",
-    "value": "GA1.2.1921152169.1772315049",
+    "name": "XSRF-TOKEN",
+    "value": "eyJpdiI6IjA2Sk5vTFMwWGErZmxHb3NmdHI3cEE9PSIsInZhbHVlIjoidmE4b0VzNmpaUXBiNzhYNktCRDJBcU1rRk9zQ1MxK2ExdkFwdXcyLy9EWnhUNnNTS1F4V09UL2R1Nm9HN3MyTmxoSjZBSHNwd3Z5dGVXeEgrN3BUSjgvekxlRDlmZmRsdnBObGwwL3F4WGEzR29oLzMyblBCL2dNdzRzUE5kMFYiLCJtYWMiOiI4MDlhNDMxYjhjZmMxYWQwYTU4YjdjMTQzMjQ2YjkwMWQyZWRkYzBlYTNiZjQ4YTY0MzY1MjJlM2E5MzdlNTZjIiwidGFnIjoiIn0%3D",
     "domain": "www.ivasms.com"
   }
 ]
